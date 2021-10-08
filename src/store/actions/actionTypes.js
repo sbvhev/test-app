@@ -1,0 +1,3 @@
+// BLOG
+export const UPDATE_BLOG_DATA = 'UPDATE_BLOG_DATA';
+export const ADD_BLOG_DATA = 'ADD_BLOG_DATA';
